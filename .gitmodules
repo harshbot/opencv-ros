@@ -1,0 +1,9 @@
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:harshbot/opencv.git
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = git@github.com:harshbot/opencv_contrib.git
+[submodule "vision_opencv"]
+	path = vision_opencv
+	url = git@github.com:harshbot/vision_opencv.git
